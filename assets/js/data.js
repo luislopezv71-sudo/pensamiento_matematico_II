@@ -5,7 +5,7 @@ window.PMII_MODULOS = [
     "descripcion": "Precisión en la comunicación y representación simbólica.",
     "slug": "lenguaje-natural",
     "icono": "messages-square",
-    "estado": "planeado"
+    "estado": "disponible"
   },
   {
     "numero": 2,

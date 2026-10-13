@@ -26,11 +26,11 @@ El propósito es que el estudiante no se limite a obtener respuestas: debe **ide
 **[Abrir portal educativo](https://luislopezv71-sudo.github.io/pensamiento_matematico_II/)**  
 **[Consultar repositorio](https://github.com/luislopezv71-sudo/pensamiento_matematico_II)**
 
-> **Estado de publicación:** versión **v1.1 — portal principal**. El portal contiene el catálogo curricular y una demostración del componente de cuaderno. **Los simuladores y lecciones específicos están por desarrollarse; no se presentan como recursos disponibles.** Los enlaces funcionarán cuando GitHub Pages esté configurado y el repositorio publicado.
+> **Estado de publicación:** versión **v1.2 — portal principal y Progresión 1**. El portal contiene el catálogo curricular y una demostración del componente de cuaderno. **La Progresión 1 ya está desarrollada; las demás lecciones siguen en preparación.** Los enlaces funcionarán cuando GitHub Pages esté configurado y el repositorio publicado.
 
 | Progresión | Eje de trabajo | Estado |
 |---|---|---|
-| 1 | Lenguaje natural y matemático | En preparación |
+| 1 | [Lenguaje natural y matemático](lenguaje-natural/) | Disponible · v1.0 |
 | 2 | Sintaxis algebraica y expresiones equivalentes | En preparación |
 | 3 | Modelación mediante lenguaje algebraico | En preparación |
 | 4 | Enteros, divisibilidad y números primos | En preparación |
@@ -46,6 +46,12 @@ El propósito es que el estudiante no se limite a obtener respuestas: debe **ide
 | 14 | Optimización y programación lineal | En preparación |
 
 Los títulos son **descripciones breves para navegación**, no transcripciones oficiales de las progresiones.
+
+## Progresión 1: lenguaje natural y matemático
+
+**[Abrir lección y simulador](lenguaje-natural/index.html)** · [Acceso publicado previsto](https://luislopezv71-sudo.github.io/pensamiento_matematico_II/lenguaje-natural/)
+
+Incluye comparación entre lenguaje cotidiano y matemático, precisión en medidas y condiciones, 3 ejemplos resueltos, laboratorio contextualizado (datos móviles, compras y videojuegos), 4 reactivos conceptuales, 6 ejercicios de representación, cuaderno obligatorio, 3 retos, 2 preguntas de explicación y avance local. La puntuación digital máxima es de **75 puntos**. Los otros **25 puntos del cuaderno** requieren comprobación por el catedrático y no se conceden automáticamente.
 
 ## Secuencia didáctica sugerida
 
