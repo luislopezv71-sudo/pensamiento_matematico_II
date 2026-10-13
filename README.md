@@ -26,7 +26,7 @@ El propósito es que el estudiante no se limite a obtener respuestas: debe **ide
 **[Abrir portal educativo](https://luislopezv71-sudo.github.io/pensamiento_matematico_II/)**  
 **[Consultar repositorio](https://github.com/luislopezv71-sudo/pensamiento_matematico_II)**
 
-> **Estado del proyecto:** versión v2.0. Progresiones 1 a 9 desarrolladas; las restantes en preparación.
+> **Estado del proyecto:** versión v2.4. Progresiones 1 a 13 desarrolladas; la Progresión 14 está en preparación.
 
 | Progresión | Eje de trabajo | Estado |
 |---|---|---|
@@ -42,7 +42,7 @@ El propósito es que el estudiante no se limite a obtener respuestas: debe **ide
 | 10 | [Geometría euclidiana y triángulo de Napoleón](geometria-euclidiana/) | Disponible · v1.0 |
 | 11 | Coordenadas, distancias y áreas | En preparación |
 | 12 | Funciones lineales, cuadráticas y polinomiales | En preparación |
-| 13 | Sistemas de ecuaciones lineales | En preparación |
+| 13 | [Sistemas de ecuaciones lineales](sistemas-ecuaciones/) | Disponible · v1.0 |
 | 14 | Optimización y programación lineal | En preparación |
 
 Los títulos son **descripciones breves para navegación**, no transcripciones oficiales de las progresiones.
@@ -227,3 +227,10 @@ Incluye representación en cuatro cuadrantes, distancia entre puntos, punto medi
 **[Abrir módulo interactivo](funciones/)** · [Documentación específica](funciones/README.md)
 
 Estudio de funciones de primer, segundo y tercer grado mediante fórmulas, tablas y gráfica SVG interactiva. Se pueden ajustar coeficientes, observar raíces, pendiente y vértice (para cuadráticas), resolver seis ejercicios autocorregibles y participar en retos. Evaluación: **75 puntos digitales y 25 puntos de cuaderno sujetos a revisión docente**.
+
+
+## Progresión 13 — Sistemas de ecuaciones lineales
+
+**[Abrir módulo interactivo](sistemas-ecuaciones/)** · [Documentación específica](sistemas-ecuaciones/README.md)
+
+Resolución de sistemas 2×2 por sustitución, igualación y eliminación, con clasificación algebraica y representación gráfica SVG de rectas que se cruzan, son paralelas o coincidentes. Incluye seis ejemplos desarrollados, seis ejercicios autocorregibles, retos y cuaderno obligatorio. **75 puntos digitales y 25 potenciales del cuaderno pendientes de validación docente**.

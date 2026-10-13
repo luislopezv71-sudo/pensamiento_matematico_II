@@ -98,10 +98,10 @@ window.PMII_MODULOS = [
   {
     "numero": 13,
     "titulo": "Sistemas de ecuaciones",
-    "descripcion": "Solución algebraica y gráfica de sistemas lineales.",
+    "descripcion": "Sustitución, igualación, eliminación y análisis de intersecciones.",
     "slug": "sistemas-ecuaciones",
     "icono": "git-merge",
-    "estado": "planeado"
+    "estado": "disponible"
   },
   {
     "numero": 14,
