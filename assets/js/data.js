@@ -73,11 +73,11 @@ window.PMII_MODULOS = [
   },
   {
     "numero": 10,
-    "titulo": "Geometría euclidiana",
+    "titulo": "Geometría euclidiana y triángulo de Napoleón",
     "descripcion": "Triángulos y construcciones geométricas.",
     "slug": "geometria-euclidiana",
     "icono": "triangle",
-    "estado": "planeado"
+    "estado": "disponible"
   },
   {
     "numero": 11,

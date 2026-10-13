@@ -37,9 +37,9 @@ El propósito es que el estudiante no se limite a obtener respuestas: debe **ide
 | 5 | [Máximo común divisor y mínimo común múltiplo](mcd-mcm/) | Disponible · v1.0 |
 | 6 | [Números reales y propiedades](numeros-reales/) | Disponible · v1.0 |
 | 7 | [Proporcionalidad y porcentajes](proporcionalidad/) | Disponible · v1.0 |
-| 8 | Interés, ahorro y deuda | En preparación |
+| 8 | [Interés, ahorro y deuda](matematica-financiera/) | Disponible · v1.0 |
 | 9 | [Áreas de figuras geométricas](geometria-areas/) | Disponible · v1.0 |
-| 10 | Geometría euclidiana y triángulo de Napoleón | En preparación |
+| 10 | [Geometría euclidiana y triángulo de Napoleón](geometria-euclidiana/) | Disponible · v1.0 |
 | 11 | Coordenadas, distancias y áreas | En preparación |
 | 12 | Funciones lineales, cuadráticas y polinomiales | En preparación |
 | 13 | Sistemas de ecuaciones lineales | En preparación |
@@ -206,3 +206,10 @@ Zihuatanejo, Guerrero, México · 2026
 ---
 
 **Repositorio:** [luislopezv71-sudo/pensamiento_matematico_II](https://github.com/luislopezv71-sudo/pensamiento_matematico_II)
+
+
+## Progresión 10: Geometría euclidiana y triángulo de Napoleón
+
+**[Abrir módulo interactivo](geometria-euclidiana/)** · [Documentación específica](geometria-euclidiana/README.md)
+
+Desarrolla los fundamentos de Pitágoras, congruencia y semejanza, centroides y cuadriláteros concíclicos. El laboratorio construye triángulos equiláteros exteriores sobre los lados de un triángulo ajustable y comprueba las distancias entre sus centroides. Incluye 6 ejemplos resueltos, 6 ejercicios autocorregibles, 3 misiones, 2 preguntas de interpretación y cuaderno manuscrito obligatorio. Puntaje máximo: **75 digitales + 25 pendientes de revisión docente**.
