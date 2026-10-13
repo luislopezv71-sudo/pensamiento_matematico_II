@@ -81,11 +81,11 @@ window.PMII_MODULOS = [
   },
   {
     "numero": 11,
-    "titulo": "Coordenadas y distancias",
+    "titulo": "Plano cartesiano, distancias y áreas",
     "descripcion": "Plano cartesiano, distancia y áreas.",
     "slug": "plano-cartesiano",
     "icono": "axis-3d",
-    "estado": "planeado"
+    "estado": "disponible"
   },
   {
     "numero": 12,

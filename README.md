@@ -213,3 +213,10 @@ Zihuatanejo, Guerrero, México · 2026
 **[Abrir módulo interactivo](geometria-euclidiana/)** · [Documentación específica](geometria-euclidiana/README.md)
 
 Desarrolla los fundamentos de Pitágoras, congruencia y semejanza, centroides y cuadriláteros concíclicos. El laboratorio construye triángulos equiláteros exteriores sobre los lados de un triángulo ajustable y comprueba las distancias entre sus centroides. Incluye 6 ejemplos resueltos, 6 ejercicios autocorregibles, 3 misiones, 2 preguntas de interpretación y cuaderno manuscrito obligatorio. Puntaje máximo: **75 digitales + 25 pendientes de revisión docente**.
+
+
+## Progresión 11 — Plano cartesiano, distancias y áreas
+
+**[Abrir módulo interactivo](plano-cartesiano/)** · [Documentación específica](plano-cartesiano/README.md)
+
+Incluye representación en cuatro cuadrantes, distancia entre puntos, punto medio, perímetros y áreas. El laboratorio SVG contrasta fórmulas de geometría sintética con el método analítico de coordenadas. Seis ejemplos, seis ejercicios autocorregibles, retos y cuaderno manuscrito obligatorio. **75 puntos digitales y 25 pendientes de revisión docente.**
