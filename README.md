@@ -130,13 +130,19 @@ pensamiento_matematico_II/
     └── evaluacion.md
 ```
 
-Las carpetas de los módulos se integrarán a medida que estén desarrollados y revisados.
+Las carpetas de los módulos se integran a medida que se desarrollan y revisan.
 
 ## Progresión 5 — MCD y mcm
 
 **[Abrir módulo interactivo](mcd-mcm/)** · [Documentación específica](mcd-mcm/README.md)
 
 Incluye conceptos, seis ejemplos resueltos, simulador de listas/factores primos/algoritmo de Euclides, seis ejercicios autocorregibles, retos, cuaderno de 25 puntos sujeto a revisión docente y resultados con almacenamiento local.
+
+## Progresión 6 — Números reales y sus propiedades
+
+**[Abrir módulo interactivo](numeros-reales/)** · [Documentación específica](numeros-reales/README.md)
+
+Incluye clasificación de naturales, enteros, racionales, irracionales y reales; seis ejemplos resueltos; laboratorios de conjuntos, recta numérica y propiedades; seis ejercicios autocorregibles; tres misiones; dos preguntas de interpretación y el cuaderno obligatorio con 25 puntos sujetos a revisión docente. La puntuación digital máxima es de 75 puntos.
 
 ## Tecnologías
 

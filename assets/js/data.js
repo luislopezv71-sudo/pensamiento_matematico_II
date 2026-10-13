@@ -45,7 +45,7 @@ window.PMII_MODULOS = [
     "descripcion": "Representación, propiedades y operaciones.",
     "slug": "numeros-reales",
     "icono": "infinity",
-    "estado": "planeado"
+    "estado": "disponible"
   },
   {
     "numero": 7,
