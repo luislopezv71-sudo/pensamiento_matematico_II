@@ -15,3 +15,7 @@ Teoría y definiciones → ejemplos resueltos → simulador → ejercicios inter
 ## Progresión 2 — Sintaxis algebraica
 
 Propósito: reconocer equivalencia entre expresiones y transformar mediante distributiva, términos semejantes, factor común y productos notables. Módulo en `sintaxis-algebraica/`. Evidencias: ejemplos resueltos, simulador, ejercicios y cuaderno. 75 puntos digitales; 25 puntos sujetos a revisión docente.
+
+
+### Progresión 5 — MCD y mcm
+Aplicar los conceptos de máximo común divisor y mínimo común múltiplo a situaciones de repartos y coincidencias; procedimientos por divisores/múltiplos, factores primos y Euclides. Evidencias digitales (75 puntos) y cuaderno manuscrito sujeto a revisión (25 puntos).

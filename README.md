@@ -132,6 +132,12 @@ pensamiento_matematico_II/
 
 Las carpetas de los módulos se integrarán a medida que estén desarrollados y revisados.
 
+## Progresión 5 — MCD y mcm
+
+**[Abrir módulo interactivo](mcd-mcm/)** · [Documentación específica](mcd-mcm/README.md)
+
+Incluye conceptos, seis ejemplos resueltos, simulador de listas/factores primos/algoritmo de Euclides, seis ejercicios autocorregibles, retos, cuaderno de 25 puntos sujeto a revisión docente y resultados con almacenamiento local.
+
 ## Tecnologías
 
 - **HTML5 y CSS3:** estructura semántica y diseño adaptable a computadoras y celulares.

@@ -37,7 +37,7 @@ window.PMII_MODULOS = [
     "descripcion": "Problemas de agrupamiento y periodicidad.",
     "slug": "mcd-mcm",
     "icono": "calculator",
-    "estado": "planeado"
+    "estado": "disponible"
   },
   {
     "numero": 6,
