@@ -1,5 +1,8 @@
 # Pensamiento Matemático II — Recursos interactivos para Bachillerato
 
+> **Versión de mantenimiento 2.6 (2026):** portal de avance consolidado para las 14 progresiones, con puntos digitales (máximo 1050) y actividades del cuaderno declaradas pendientes de revisión (máximo 350), documentación completada para progresiones 1 y 2 y tratamiento explícito de casos no acotados en programación lineal. No se modifican las claves locales (`pmii-pN-v1`), para preservar los avances ya registrados.
+
+
 **Universidad William Osler · Bachillerato · Zihuatanejo, Guerrero · 2026**  
 **Catedrático y desarrollador:** L.I. Luis Arturo López Vergara
 
