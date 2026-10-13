@@ -26,7 +26,7 @@ El propósito es que el estudiante no se limite a obtener respuestas: debe **ide
 **[Abrir portal educativo](https://luislopezv71-sudo.github.io/pensamiento_matematico_II/)**  
 **[Consultar repositorio](https://github.com/luislopezv71-sudo/pensamiento_matematico_II)**
 
-> **Estado del proyecto:** versión v1.8. Progresiones 1 a 7 desarrolladas; las restantes están en preparación. GitHub Pages debe estar configurado para su acceso público.
+> **Estado del proyecto:** versión v1.9. Progresiones 1 a 8 desarrolladas; las demás en preparación. GitHub Pages debe estar configurado para su acceso público.
 
 | Progresión | Eje de trabajo | Estado |
 |---|---|---|
@@ -149,6 +149,12 @@ Incluye clasificación de naturales, enteros, racionales, irracionales y reales;
 **[Abrir módulo interactivo](proporcionalidad/)** · [Documentación específica](proporcionalidad/README.md)
 
 Incluye razones, proporciones directas e inversas, regla de tres, porcentajes, descuentos y aumentos sucesivos; seis ejemplos completos, laboratorio con gráfica y tabla, calculadora porcentual, seis ejercicios autocorregibles, retos y cuaderno obligatorio. Evaluación: **75 puntos digitales + 25 puntos de cuaderno por validar con el catedrático**.
+
+## Progresión 8 — Matemáticas financieras: interés, ahorro y deuda
+
+**[Abrir módulo interactivo](matematica-financiera/)** · [Documentación específica](matematica-financiera/README.md)
+
+Incluye interés simple y compuesto, simulador comparativo con gráfica y tabla, ahorro mediante aportaciones mensuales, modelo didáctico de crédito amortizable, seis ejemplos resueltos, seis ejercicios autocorregibles y retos. Cuaderno obligatorio: **25 puntos por validar con el catedrático**, más 75 puntos digitales.
 
 ## Tecnologías
 

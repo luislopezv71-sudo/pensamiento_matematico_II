@@ -61,7 +61,7 @@ window.PMII_MODULOS = [
     "descripcion": "Interés, ahorro, crédito y decisiones financieras.",
     "slug": "matematica-financiera",
     "icono": "wallet",
-    "estado": "planeado"
+    "estado": "disponible"
   },
   {
     "numero": 9,
