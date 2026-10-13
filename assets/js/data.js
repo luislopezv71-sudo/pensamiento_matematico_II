@@ -21,7 +21,7 @@ window.PMII_MODULOS = [
     "descripcion": "De situaciones cotidianas a expresiones simbólicas.",
     "slug": "modelacion-algebraica",
     "icono": "puzzle",
-    "estado": "planeado"
+    "estado": "disponible"
   },
   {
     "numero": 4,

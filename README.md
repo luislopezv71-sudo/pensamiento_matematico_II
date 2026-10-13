@@ -26,13 +26,13 @@ El propósito es que el estudiante no se limite a obtener respuestas: debe **ide
 **[Abrir portal educativo](https://luislopezv71-sudo.github.io/pensamiento_matematico_II/)**  
 **[Consultar repositorio](https://github.com/luislopezv71-sudo/pensamiento_matematico_II)**
 
-> **Estado de publicación:** versión **v1.3 — portal principal y Progresiones 1 y 2**. El portal contiene el catálogo curricular y una demostración del componente de cuaderno. **Las progresiones 1 y 2 están desarrolladas; las demás lecciones siguen en preparación.** Los enlaces funcionarán cuando GitHub Pages esté configurado y el repositorio publicado.
+> **Estado de publicación:** versión **v1.4 — portal principal y Progresiones 1, 2 y 3**. El portal contiene el catálogo curricular y una demostración del componente de cuaderno. **Las progresiones 1, 2 y 3 están desarrolladas; las demás lecciones siguen en preparación.** Los enlaces funcionarán cuando GitHub Pages esté configurado y el repositorio publicado.
 
 | Progresión | Eje de trabajo | Estado |
 |---|---|---|
 | 1 | [Lenguaje natural y matemático](lenguaje-natural/) | Disponible · v1.0 |
 | 2 | [Sintaxis algebraica y expresiones equivalentes](sintaxis-algebraica/) | Disponible · v1.0 |
-| 3 | Modelación mediante lenguaje algebraico | En preparación |
+| 3 | [Modelación mediante lenguaje algebraico](modelacion-algebraica/) | Disponible · v1.0 |
 | 4 | Enteros, divisibilidad y números primos | En preparación |
 | 5 | Máximo común divisor y mínimo común múltiplo | En preparación |
 | 6 | Números reales y propiedades | En preparación |
@@ -58,6 +58,14 @@ Incluye comparación entre lenguaje cotidiano y matemático, precisión en medid
 **[Abrir lección interactiva](sintaxis-algebraica/index.html)** · [Acceso publicado previsto](https://luislopezv71-sudo.github.io/pensamiento_matematico_II/sintaxis-algebraica/)
 
 Incluye conceptos y elementos de la sintaxis algebraica, cuatro ejemplos resueltos, laboratorio interactivo que compara formas desarrolladas, simplificadas y factorizadas (con contraejemplo), cuatro preguntas conceptuales, seis ejercicios autocorregibles, tres retos y dos preguntas de justificación. Se incluye el componente **Mi cuaderno matemático** con definiciones, dos ejemplos, cinco ejercicios y reflexión. Puntuación: **75 puntos digitales** y **25 puntos de cuaderno pendientes de revisión docente**.
+
+## Progresión 3: modelación mediante lenguaje algebraico
+
+**[Abrir lección interactiva](modelacion-algebraica/index.html)** · [Acceso publicado previsto](https://luislopezv71-sudo.github.io/pensamiento_matematico_II/modelacion-algebraica/)
+
+Incluye conceptos de modelación, datos, variables, restricciones, expresiones y ecuaciones; cuatro ejemplos resueltos (taxi, datos móviles, compra de cuadernos y área de jardín); laboratorio con cuatro escenarios de cambio de parámetros y tabla de valores; cuatro reactivos de teoría, seis ejercicios autocorregibles, tres retos y dos preguntas de interpretación.
+
+**Cuaderno obligatorio:** seis definiciones, dos ejemplos desarrollados, cinco ejercicios manuscritos y reflexión con comprobación. Puntuación máxima: **75 puntos digitales y 25 puntos de cuaderno sujetos a validación del catedrático**. El progreso digital se guarda en este navegador, sin registro institucional ni sincronización de calificaciones.
 
 ## Secuencia didáctica sugerida
 
