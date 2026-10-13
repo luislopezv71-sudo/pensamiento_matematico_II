@@ -53,7 +53,7 @@ window.PMII_MODULOS = [
     "descripcion": "Razones, proporciones y cambios porcentuales.",
     "slug": "proporcionalidad",
     "icono": "percent",
-    "estado": "planeado"
+    "estado": "disponible"
   },
   {
     "numero": 8,

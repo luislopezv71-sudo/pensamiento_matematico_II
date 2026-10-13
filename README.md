@@ -26,7 +26,7 @@ El propósito es que el estudiante no se limite a obtener respuestas: debe **ide
 **[Abrir portal educativo](https://luislopezv71-sudo.github.io/pensamiento_matematico_II/)**  
 **[Consultar repositorio](https://github.com/luislopezv71-sudo/pensamiento_matematico_II)**
 
-> **Estado de publicación:** versión **v1.5 — portal principal y Progresiones 1, 2, 3 y 4**. El portal contiene el catálogo curricular y una demostración del componente de cuaderno. **Las progresiones 1 a 4 están desarrolladas; las demás lecciones siguen en preparación.** Los enlaces funcionarán cuando GitHub Pages esté configurado y el repositorio publicado.
+> **Estado del proyecto:** versión v1.8. Progresiones 1 a 7 desarrolladas; las restantes están en preparación. GitHub Pages debe estar configurado para su acceso público.
 
 | Progresión | Eje de trabajo | Estado |
 |---|---|---|
@@ -34,9 +34,9 @@ El propósito es que el estudiante no se limite a obtener respuestas: debe **ide
 | 2 | [Sintaxis algebraica y expresiones equivalentes](sintaxis-algebraica/) | Disponible · v1.0 |
 | 3 | [Modelación mediante lenguaje algebraico](modelacion-algebraica/) | Disponible · v1.0 |
 | 4 | [Enteros, divisibilidad y números primos](enteros-divisibilidad/) | Disponible · v1.0 |
-| 5 | Máximo común divisor y mínimo común múltiplo | En preparación |
-| 6 | Números reales y propiedades | En preparación |
-| 7 | Proporcionalidad y porcentajes | En preparación |
+| 5 | [Máximo común divisor y mínimo común múltiplo](mcd-mcm/) | Disponible · v1.0 |
+| 6 | [Números reales y propiedades](numeros-reales/) | Disponible · v1.0 |
+| 7 | [Proporcionalidad y porcentajes](proporcionalidad/) | Disponible · v1.0 |
 | 8 | Interés, ahorro y deuda | En preparación |
 | 9 | Áreas de figuras geométricas | En preparación |
 | 10 | Geometría euclidiana y triángulo de Napoleón | En preparación |
@@ -143,6 +143,12 @@ Incluye conceptos, seis ejemplos resueltos, simulador de listas/factores primos/
 **[Abrir módulo interactivo](numeros-reales/)** · [Documentación específica](numeros-reales/README.md)
 
 Incluye clasificación de naturales, enteros, racionales, irracionales y reales; seis ejemplos resueltos; laboratorios de conjuntos, recta numérica y propiedades; seis ejercicios autocorregibles; tres misiones; dos preguntas de interpretación y el cuaderno obligatorio con 25 puntos sujetos a revisión docente. La puntuación digital máxima es de 75 puntos.
+
+## Progresión 7 — Proporcionalidad y porcentajes
+
+**[Abrir módulo interactivo](proporcionalidad/)** · [Documentación específica](proporcionalidad/README.md)
+
+Incluye razones, proporciones directas e inversas, regla de tres, porcentajes, descuentos y aumentos sucesivos; seis ejemplos completos, laboratorio con gráfica y tabla, calculadora porcentual, seis ejercicios autocorregibles, retos y cuaderno obligatorio. Evaluación: **75 puntos digitales + 25 puntos de cuaderno por validar con el catedrático**.
 
 ## Tecnologías
 
