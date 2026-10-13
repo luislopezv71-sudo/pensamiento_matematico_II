@@ -220,3 +220,10 @@ Desarrolla los fundamentos de Pitágoras, congruencia y semejanza, centroides y 
 **[Abrir módulo interactivo](plano-cartesiano/)** · [Documentación específica](plano-cartesiano/README.md)
 
 Incluye representación en cuatro cuadrantes, distancia entre puntos, punto medio, perímetros y áreas. El laboratorio SVG contrasta fórmulas de geometría sintética con el método analítico de coordenadas. Seis ejemplos, seis ejercicios autocorregibles, retos y cuaderno manuscrito obligatorio. **75 puntos digitales y 25 pendientes de revisión docente.**
+
+
+## Progresión 12 — Funciones lineales, cuadráticas y polinomiales
+
+**[Abrir módulo interactivo](funciones/)** · [Documentación específica](funciones/README.md)
+
+Estudio de funciones de primer, segundo y tercer grado mediante fórmulas, tablas y gráfica SVG interactiva. Se pueden ajustar coeficientes, observar raíces, pendiente y vértice (para cuadráticas), resolver seis ejercicios autocorregibles y participar en retos. Evaluación: **75 puntos digitales y 25 puntos de cuaderno sujetos a revisión docente**.

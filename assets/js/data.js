@@ -93,7 +93,7 @@ window.PMII_MODULOS = [
     "descripcion": "Funciones lineales, cuadráticas y polinomiales.",
     "slug": "funciones",
     "icono": "chart-line",
-    "estado": "planeado"
+    "estado": "disponible"
   },
   {
     "numero": 13,
