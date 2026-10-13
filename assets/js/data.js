@@ -69,7 +69,7 @@ window.PMII_MODULOS = [
     "descripcion": "Construcción y comparación de superficies.",
     "slug": "geometria-areas",
     "icono": "shapes",
-    "estado": "planeado"
+    "estado": "disponible"
   },
   {
     "numero": 10,

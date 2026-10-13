@@ -26,7 +26,7 @@ El propósito es que el estudiante no se limite a obtener respuestas: debe **ide
 **[Abrir portal educativo](https://luislopezv71-sudo.github.io/pensamiento_matematico_II/)**  
 **[Consultar repositorio](https://github.com/luislopezv71-sudo/pensamiento_matematico_II)**
 
-> **Estado del proyecto:** versión v1.9. Progresiones 1 a 8 desarrolladas; las demás en preparación. GitHub Pages debe estar configurado para su acceso público.
+> **Estado del proyecto:** versión v2.0. Progresiones 1 a 9 desarrolladas; las restantes en preparación.
 
 | Progresión | Eje de trabajo | Estado |
 |---|---|---|
@@ -38,7 +38,7 @@ El propósito es que el estudiante no se limite a obtener respuestas: debe **ide
 | 6 | [Números reales y propiedades](numeros-reales/) | Disponible · v1.0 |
 | 7 | [Proporcionalidad y porcentajes](proporcionalidad/) | Disponible · v1.0 |
 | 8 | Interés, ahorro y deuda | En preparación |
-| 9 | Áreas de figuras geométricas | En preparación |
+| 9 | [Áreas de figuras geométricas](geometria-areas/) | Disponible · v1.0 |
 | 10 | Geometría euclidiana y triángulo de Napoleón | En preparación |
 | 11 | Coordenadas, distancias y áreas | En preparación |
 | 12 | Funciones lineales, cuadráticas y polinomiales | En preparación |
@@ -155,6 +155,12 @@ Incluye razones, proporciones directas e inversas, regla de tres, porcentajes, d
 **[Abrir módulo interactivo](matematica-financiera/)** · [Documentación específica](matematica-financiera/README.md)
 
 Incluye interés simple y compuesto, simulador comparativo con gráfica y tabla, ahorro mediante aportaciones mensuales, modelo didáctico de crédito amortizable, seis ejemplos resueltos, seis ejercicios autocorregibles y retos. Cuaderno obligatorio: **25 puntos por validar con el catedrático**, más 75 puntos digitales.
+
+## Progresión 9 — Geometría y áreas
+
+**[Abrir módulo interactivo](geometria-areas/)** · [Documentación específica](geometria-areas/README.md)
+
+Incluye teoría, seis ejemplos resueltos, laboratorio SVG de figuras geométricas ajustables, seis ejercicios autocorregibles, tres misiones y dos preguntas de interpretación. El cuaderno obligatorio permite registrar **25 puntos de trabajo pendientes de validación docente**, además de 75 puntos digitales.
 
 ## Tecnologías
 
