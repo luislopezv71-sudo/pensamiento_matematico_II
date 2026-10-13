@@ -234,3 +234,12 @@ Estudio de funciones de primer, segundo y tercer grado mediante fórmulas, tabla
 **[Abrir módulo interactivo](sistemas-ecuaciones/)** · [Documentación específica](sistemas-ecuaciones/README.md)
 
 Resolución de sistemas 2×2 por sustitución, igualación y eliminación, con clasificación algebraica y representación gráfica SVG de rectas que se cruzan, son paralelas o coincidentes. Incluye seis ejemplos desarrollados, seis ejercicios autocorregibles, retos y cuaderno obligatorio. **75 puntos digitales y 25 potenciales del cuaderno pendientes de validación docente**.
+
+
+## Progresión 14 — Optimización y programación lineal
+
+**[Abrir lección](programacion-lineal/)** · [Documentación del módulo](programacion-lineal/README.md)
+
+Modelo de función objetivo lineal con restricciones, región factible en SVG, exploración de vértices, tres escenarios de producción, ejercicios autocorregibles y cuaderno. **75 puntos digitales y 25 potenciales del cuaderno que requieren revisión del catedrático.**
+
+**Estado del proyecto:** Las 14 progresiones curriculares tienen módulos interactivos preparados. Se recomienda realizar pruebas funcionales completas de todo el portal, revisar matemáticamente los bancos de preguntas y validar los materiales en dispositivos móviles antes de considerar el proyecto cerrado académicamente.

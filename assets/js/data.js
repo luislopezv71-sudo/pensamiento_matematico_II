@@ -106,9 +106,9 @@ window.PMII_MODULOS = [
   {
     "numero": 14,
     "titulo": "Optimización lineal",
-    "descripcion": "Modelación de restricciones y soluciones óptimas.",
+    "descripcion": "Regiones factibles, restricciones y solución óptima por vértices.",
     "slug": "programacion-lineal",
     "icono": "target",
-    "estado": "planeado"
+    "estado": "disponible"
   }
 ];
