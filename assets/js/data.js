@@ -13,7 +13,7 @@ window.PMII_MODULOS = [
     "descripcion": "Expresiones equivalentes, simplificación y factorización.",
     "slug": "sintaxis-algebraica",
     "icono": "variable",
-    "estado": "planeado"
+    "estado": "disponible"
   },
   {
     "numero": 3,

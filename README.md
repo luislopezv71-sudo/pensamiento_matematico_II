@@ -26,12 +26,12 @@ El propósito es que el estudiante no se limite a obtener respuestas: debe **ide
 **[Abrir portal educativo](https://luislopezv71-sudo.github.io/pensamiento_matematico_II/)**  
 **[Consultar repositorio](https://github.com/luislopezv71-sudo/pensamiento_matematico_II)**
 
-> **Estado de publicación:** versión **v1.2 — portal principal y Progresión 1**. El portal contiene el catálogo curricular y una demostración del componente de cuaderno. **La Progresión 1 ya está desarrollada; las demás lecciones siguen en preparación.** Los enlaces funcionarán cuando GitHub Pages esté configurado y el repositorio publicado.
+> **Estado de publicación:** versión **v1.3 — portal principal y Progresiones 1 y 2**. El portal contiene el catálogo curricular y una demostración del componente de cuaderno. **Las progresiones 1 y 2 están desarrolladas; las demás lecciones siguen en preparación.** Los enlaces funcionarán cuando GitHub Pages esté configurado y el repositorio publicado.
 
 | Progresión | Eje de trabajo | Estado |
 |---|---|---|
 | 1 | [Lenguaje natural y matemático](lenguaje-natural/) | Disponible · v1.0 |
-| 2 | Sintaxis algebraica y expresiones equivalentes | En preparación |
+| 2 | [Sintaxis algebraica y expresiones equivalentes](sintaxis-algebraica/) | Disponible · v1.0 |
 | 3 | Modelación mediante lenguaje algebraico | En preparación |
 | 4 | Enteros, divisibilidad y números primos | En preparación |
 | 5 | Máximo común divisor y mínimo común múltiplo | En preparación |
@@ -52,6 +52,12 @@ Los títulos son **descripciones breves para navegación**, no transcripciones o
 **[Abrir lección y simulador](lenguaje-natural/index.html)** · [Acceso publicado previsto](https://luislopezv71-sudo.github.io/pensamiento_matematico_II/lenguaje-natural/)
 
 Incluye comparación entre lenguaje cotidiano y matemático, precisión en medidas y condiciones, 3 ejemplos resueltos, laboratorio contextualizado (datos móviles, compras y videojuegos), 4 reactivos conceptuales, 6 ejercicios de representación, cuaderno obligatorio, 3 retos, 2 preguntas de explicación y avance local. La puntuación digital máxima es de **75 puntos**. Los otros **25 puntos del cuaderno** requieren comprobación por el catedrático y no se conceden automáticamente.
+
+## Progresión 2: sintaxis algebraica y expresiones equivalentes
+
+**[Abrir lección interactiva](sintaxis-algebraica/index.html)** · [Acceso publicado previsto](https://luislopezv71-sudo.github.io/pensamiento_matematico_II/sintaxis-algebraica/)
+
+Incluye conceptos y elementos de la sintaxis algebraica, cuatro ejemplos resueltos, laboratorio interactivo que compara formas desarrolladas, simplificadas y factorizadas (con contraejemplo), cuatro preguntas conceptuales, seis ejercicios autocorregibles, tres retos y dos preguntas de justificación. Se incluye el componente **Mi cuaderno matemático** con definiciones, dos ejemplos, cinco ejercicios y reflexión. Puntuación: **75 puntos digitales** y **25 puntos de cuaderno pendientes de revisión docente**.
 
 ## Secuencia didáctica sugerida
 

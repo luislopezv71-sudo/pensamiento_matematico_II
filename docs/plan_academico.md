@@ -10,3 +10,8 @@ El portal representa las 14 progresiones del programa SEP-DGB de Pensamiento Mat
 
 ## Plantilla por módulo
 Teoría y definiciones → ejemplos resueltos → simulador → ejercicios interactivos → cuaderno (5+5+10+5 puntos) → retos → resultados.
+
+
+## Progresión 2 — Sintaxis algebraica
+
+Propósito: reconocer equivalencia entre expresiones y transformar mediante distributiva, términos semejantes, factor común y productos notables. Módulo en `sintaxis-algebraica/`. Evidencias: ejemplos resueltos, simulador, ejercicios y cuaderno. 75 puntos digitales; 25 puntos sujetos a revisión docente.
