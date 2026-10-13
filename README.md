@@ -26,14 +26,14 @@ El propósito es que el estudiante no se limite a obtener respuestas: debe **ide
 **[Abrir portal educativo](https://luislopezv71-sudo.github.io/pensamiento_matematico_II/)**  
 **[Consultar repositorio](https://github.com/luislopezv71-sudo/pensamiento_matematico_II)**
 
-> **Estado de publicación:** versión **v1.4 — portal principal y Progresiones 1, 2 y 3**. El portal contiene el catálogo curricular y una demostración del componente de cuaderno. **Las progresiones 1, 2 y 3 están desarrolladas; las demás lecciones siguen en preparación.** Los enlaces funcionarán cuando GitHub Pages esté configurado y el repositorio publicado.
+> **Estado de publicación:** versión **v1.5 — portal principal y Progresiones 1, 2, 3 y 4**. El portal contiene el catálogo curricular y una demostración del componente de cuaderno. **Las progresiones 1 a 4 están desarrolladas; las demás lecciones siguen en preparación.** Los enlaces funcionarán cuando GitHub Pages esté configurado y el repositorio publicado.
 
 | Progresión | Eje de trabajo | Estado |
 |---|---|---|
 | 1 | [Lenguaje natural y matemático](lenguaje-natural/) | Disponible · v1.0 |
 | 2 | [Sintaxis algebraica y expresiones equivalentes](sintaxis-algebraica/) | Disponible · v1.0 |
 | 3 | [Modelación mediante lenguaje algebraico](modelacion-algebraica/) | Disponible · v1.0 |
-| 4 | Enteros, divisibilidad y números primos | En preparación |
+| 4 | [Enteros, divisibilidad y números primos](enteros-divisibilidad/) | Disponible · v1.0 |
 | 5 | Máximo común divisor y mínimo común múltiplo | En preparación |
 | 6 | Números reales y propiedades | En preparación |
 | 7 | Proporcionalidad y porcentajes | En preparación |
@@ -66,6 +66,14 @@ Incluye conceptos y elementos de la sintaxis algebraica, cuatro ejemplos resuelt
 Incluye conceptos de modelación, datos, variables, restricciones, expresiones y ecuaciones; cuatro ejemplos resueltos (taxi, datos móviles, compra de cuadernos y área de jardín); laboratorio con cuatro escenarios de cambio de parámetros y tabla de valores; cuatro reactivos de teoría, seis ejercicios autocorregibles, tres retos y dos preguntas de interpretación.
 
 **Cuaderno obligatorio:** seis definiciones, dos ejemplos desarrollados, cinco ejercicios manuscritos y reflexión con comprobación. Puntuación máxima: **75 puntos digitales y 25 puntos de cuaderno sujetos a validación del catedrático**. El progreso digital se guarda en este navegador, sin registro institucional ni sincronización de calificaciones.
+
+## Progresión 4: números enteros, divisibilidad y primos
+
+**[Abrir lección interactiva](enteros-divisibilidad/index.html)** · [Acceso publicado previsto](https://luislopezv71-sudo.github.io/pensamiento_matematico_II/enteros-divisibilidad/)
+
+Incluye fundamentos de los números enteros y leyes de signos, definiciones de divisores y múltiplos, criterios de divisibilidad, clasificación de primos y compuestos, cinco ejemplos resueltos, recta numérica dinámica, detector de divisibilidad y criba de 1 a 100. La evaluación contiene cuatro preguntas conceptuales, seis ejercicios, tres retos y dos preguntas de justificación.
+
+**Cuaderno obligatorio:** definiciones, dos ejemplos desarrollados, cinco ejercicios manuscritos y reflexión. **75 puntos digitales** + **25 puntos de cuaderno pendientes de revisión docente**. MCD y mcm se abordarán en la Progresión 5.
 
 ## Secuencia didáctica sugerida
 

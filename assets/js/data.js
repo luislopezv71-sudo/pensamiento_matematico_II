@@ -29,7 +29,7 @@ window.PMII_MODULOS = [
     "descripcion": "Signos, primos y criterios de divisibilidad.",
     "slug": "enteros-divisibilidad",
     "icono": "hash",
-    "estado": "planeado"
+    "estado": "disponible"
   },
   {
     "numero": 5,
